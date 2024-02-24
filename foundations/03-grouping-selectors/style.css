@@ -8,7 +8,8 @@
     background-color: yellow;
 }
 
-.frstb.scndb{
+.frstb,
+.scndb{
     font-size: 28px;
     font-family: Helvetica "Times New Roman" sans-serif;
 }
