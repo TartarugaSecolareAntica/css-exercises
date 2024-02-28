@@ -15,11 +15,13 @@ body {
 
 .content {
   background: #e3f4ff;
+  margin: 10px;
 }
 
 .button-container {
   text-align: center;
   background: #e3f4ff;
+  margin: 10px;
 }
 
 button {
