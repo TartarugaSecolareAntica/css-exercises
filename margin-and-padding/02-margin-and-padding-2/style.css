@@ -21,6 +21,7 @@ body {
   background: #e3f4ff;
   margin: 10px;
   padding: 10px;
+  
 }
 
 .button-container {
@@ -28,9 +29,11 @@ body {
   background: #e3f4ff;
   margin: 10px;
   padding: 10px;
+  display: block;
 }
 
 button {
   background: white;
   border: 1px solid #eee;
+  display: block;
 }
