@@ -14,13 +14,15 @@ body {
 .title {
   font-size: 24px;
   background: #e3f4ff;
-  width: 400px;
+  width: 380px;
+  margin: 10px;
   
 }
 
 .content {
   background: #e3f4ff;
-  width: 400px;
+  width: 380px;
+  margin: 10px;
   
 }
 
@@ -28,7 +30,8 @@ body {
   background: #e3f4ff;
   display: block;
   text-align: center;
-  width: 400px;
+  width: 380px;
+  margin: 10px;
   
 }
 
