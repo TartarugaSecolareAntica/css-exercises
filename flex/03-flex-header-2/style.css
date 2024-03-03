@@ -14,14 +14,14 @@ body {
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   display: flex;
   justify-content: space-between;
+  padding: 10px 7px;
+  align-items: center;
 }
 
 
 .left-container,
 .right-container{
-  display: flex;
-  margin: 0px 5px 0px 5px;
-  
+  display: flex;  
 }
 
 .profile-image {
