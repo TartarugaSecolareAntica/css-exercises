@@ -4,8 +4,9 @@ body {
 
 .main {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   flex-wrap: wrap;
+  
 }
 
 img {
@@ -21,6 +22,7 @@ img {
 .plants {
   display: flex;
   justify-content: space-around;
+  gap: 50px;
 }
 
 .single-plant {
