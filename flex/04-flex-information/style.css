@@ -30,8 +30,10 @@ img {
   flex-wrap: wrap;
   justify-content: center;
   max-width: 200px;
+}
 
-   
+.text {
+  text-align: center;
 }
 
 /* do not edit this footer */
