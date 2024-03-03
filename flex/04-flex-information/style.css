@@ -26,7 +26,8 @@ img {
 .single-plant {
   display: flex;
   flex-wrap: wrap;
-
+  justify-content: center;
+  
 }
 
 /* do not edit this footer */
