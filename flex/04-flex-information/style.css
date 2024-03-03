@@ -6,6 +6,7 @@ body {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  
 }
 
 img {
@@ -20,6 +21,13 @@ img {
 
 .plants {
   display: flex;
+
+}
+
+.single-plant {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 /* do not edit this footer */
