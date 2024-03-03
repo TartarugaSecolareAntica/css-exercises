@@ -20,6 +20,7 @@ body {
 .left-container,
 .right-container{
   display: flex;
+  
 }
 
 .profile-image {
@@ -51,7 +52,8 @@ a {
   color: rebeccapurple;
 }
 
-ul {
+.left-container ul {
   list-style-type: none;
   display: flex;
+  gap: 8px;
 }
