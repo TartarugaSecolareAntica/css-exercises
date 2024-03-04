@@ -25,7 +25,10 @@ body {
   
 }
 
-
+.right {
+  display: flex;
+  flex-wrap: wrap;
+}
 
 .icon {
   color: royalblue;
