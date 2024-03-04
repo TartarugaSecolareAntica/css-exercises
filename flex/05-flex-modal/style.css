@@ -22,10 +22,10 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   
 }
 
-.top,
 .bottom {
   display: flex;
   justify-content: space-between;
