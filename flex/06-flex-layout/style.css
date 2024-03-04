@@ -38,6 +38,12 @@ ul {
   gap: 10px;
 }
 
+a:link,
+a:visited {
+  color: rgba(44, 45, 46, 0.774);
+  text-decoration: none;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
@@ -54,6 +60,6 @@ ul {
 .footer {
   display: flex;
   justify-content: space-between;
-  background-color: lightgrey;
+  background-color: rgb(233, 231, 231);
 }
 
