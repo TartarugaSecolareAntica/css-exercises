@@ -24,8 +24,10 @@ body {
   flex-wrap: wrap;
   justify-content: center;
   
+  
 }
 
+.top,
 .bottom {
   display: flex;
   justify-content: space-between;
@@ -58,6 +60,7 @@ body {
   justify-content: center;
   border: 1px solid #eee;
   padding: 0;
+  
 }
 
 button {
