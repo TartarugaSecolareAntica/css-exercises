@@ -32,6 +32,13 @@ input {
 
 .header {
   display: flex;
-justify-content: space-between;
+  justify-content: space-between;
+}
+
+.content {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  
 }
 
